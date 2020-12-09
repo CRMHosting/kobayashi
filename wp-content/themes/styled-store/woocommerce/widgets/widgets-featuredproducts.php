@@ -53,8 +53,6 @@ class styledstore_woocommercefeaturedeproducts extends WP_Widget {
 					<ul class="st_wc_featured_product woocommerce products" style="visibility: hidden;">
 						<?php $st_product_args = array(
 					    	'post_type'  => 'product',  
-					    	'meta_key'   => '_featured',  
-					    	'meta_value'  => 'yes',	  
 					    	'posts_per_page'   => $st_perpage,
 					    	'tax_query' => array(
 								array(
