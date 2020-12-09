@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Styled Store v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-27 21:00+0300\n"
+"Last-Translator: admin\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ styled-store
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению, страница не найдена"
+
+# @ styled-store
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может быть попробовать одну из следующих ссылок или новый поиск?"
+
+# @ styled-store
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "Комментариев: %1$s на &ldquo;%2$s&rdquo;"
+msgstr[2] ""
+
+# @ styled-store
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ styled-store
+#: comments.php:43
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+# @ styled-store
+#: comments.php:44
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ styled-store
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ styled-store
+#: footer.php:26
+msgid "Styled Store WordPress Theme by"
+msgstr ""
+
+# @ styled-store
+#: footer.php:27
+msgid "StyledThemes"
+msgstr ""
+
+# @ styled-store
+#: functions.php:48
+msgid "Primary"
+msgstr "Основное меню"
+
+# @ styled-store
+#: functions.php:49
+msgid "Footer"
+msgstr "Подвал"
+
+# @ styled-store
+#: functions.php:118
+msgid "Blog Right Sidebar"
+msgstr "Правый сайдбар блога"
+
+# @ styled-store
+#: functions.php:120
+msgid "This is blog right sidebar column which appears on blog not on othere pages."
+msgstr "Это правый сайдбар"
+
+# @ styled-store
+#: functions.php:129
+msgid "Blog Left Sidebar"
+msgstr "Левый сайдбар блога"
+
+# @ styled-store
+#: functions.php:131
+msgid "This is blog left sidebar column which appears on blog not on othere pages."
+msgstr "Это левый сайдбар страницы"
+
+# @ styled-store
+#: functions.php:140
+msgid "Page Right Sidebar"
+msgstr "Сайдбар справа на страницах"
+
+# @ styled-store
+#: functions.php:142
+msgid "This is page right sidebar column which appears on right of page"
+msgstr "Это столбец правой боковой панели страницы, который отображается на странице"
+
+# @ styled-store
+#: functions.php:151
+msgid "Page left Sidebar"
+msgstr "Страница - сайдбар слева"
+
+# @ styled-store
+#: functions.php:153
+msgid "This is page left sidebar column which appears on left of the page"
+msgstr "Это левый сайдбар"
+
+# @ styled-store
+#: functions.php:162
+msgid "Banner"
+msgstr "Баннер"
+
+# @ styled-store
+#: functions.php:164
+msgid "This is banner sidebar which appears just below the header "
+msgstr "Это боковой баннер, который появляется под заголовком"
+
+# @ styled-store
+#: functions.php:173
+msgid "Homepage Featured Section"
+msgstr "Рекомендуемый раздел на Домашней странице"
+
+# @ styled-store
+#: functions.php:175 functions.php:186 functions.php:197 functions.php:208
+#: functions.php:219
+msgid "This sidebar renders its content on page with Woocommerce Homepage template Selected"
+msgstr "Эта боковая панель отображает содержимое на странице с Woocommerce"
+
+# @ styled-store
+#: functions.php:184
+msgid "Homepage Category Section"
+msgstr "Выберите категорию для домашней страницы."
+
+# @ styled-store
+#: functions.php:195
+msgid "Homepage Service Section"
+msgstr "Домашняя страница - службы"
+
+# @ styled-store
+#: functions.php:206
+msgid "Homepage Promo Section"
+msgstr "Домашняя страница - промо"
+
+# @ styled-store
+#: functions.php:217
+msgid "Homepage Recent Post Section"
+msgstr "Домашняя страница - последние записи"
+
+# @ styled-store
+#: functions.php:228
+msgid "Product Overview"
+msgstr "Обзор продукта"
+
+# @ styled-store
+#: functions.php:230
+msgid "Product Overview Section Like Best Sell, Top Rated Product, New Arraivels etc, contains upto 4 widget in a row"
+msgstr "Продукт обзор раздел как лучшая возможность продать, топ рейтинг продукта, новые продукты, содержит до 4 виджетов в строке"
+
+# @ styled-store
+#: functions.php:238
+msgid "Shop Sidebar"
+msgstr "Сайдбар магазина"
+
+# @ styled-store
+#: functions.php:240
+msgid "Sidebar for shop page"
+msgstr "Боковая панель для страницы магазина"
+
+# @ styled-store
+#: functions.php:249
+msgid "Footer Top 1"
+msgstr "Подвал Верх 1"
+
+# @ styled-store
+#: functions.php:251
+msgid "This is footer top column which appears on top of footer"
+msgstr "Это верхний столбец нижнего колонтитула, который отображается поверх нижнего колонтитула"
+
+# @ styled-store
+#: functions.php:260
+msgid "Footer Top 2"
+msgstr "Подвал Верх 2"
+
+# @ styled-store
+#: functions.php:262
+msgid "This is second footer top column which appears on top of footer"
+msgstr "Это второй столбец верхний колонтитул, который появляется в верхней части нижнего колонтитула"
+
+# @ styled-store
+#: functions.php:271
+msgid "Footer Top 3"
+msgstr "Подвал Верх 3"
+
+# @ styled-store
+#: functions.php:273
+msgid "This is third footer top column which appears on top of footer"
+msgstr "Это третий столбец верхнего нижнего колонтитула, который отображается поверх нижнего колонтитула"
+
+# @ styled-store
+#: functions.php:282
+msgid "Footer Top 4"
+msgstr "Подвал Верх 4"
+
+# @ styled-store
+#: functions.php:284
+msgid "This is fourth footer top column which appears on top of footer"
+msgstr "Это четвертый столбец верхний колонтитул, который появляется в верхней части нижнего колонтитула"
+
+# @ styled-store
+#: functions.php:293
+msgid "Footer Top 5"
+msgstr "Подвал Верх 5"
+
+# @ styled-store
+#: functions.php:295
+msgid "This is fifth footer top column which appears on top of footer"
+msgstr "Это пятый столбец нижнего колонтитула, который отображается поверх нижнего колонтитула"
+
+# @ styled-store
+#: header.php:42
+msgid " Logout"
+msgstr "Выйти"
+
+# @ styled-store
+#: header.php:46
+msgid "Login"
+msgstr "Вход"
+
+# @ styled-store
+#: header.php:51 woocommerce/wc-additional-function.php:265
+msgid "View your shopping cart"
+msgstr "Перейти в корзину"
+
+# @ styled-store
+#: header.php:51
+msgid "cart /"
+msgstr "Корзина"
+
+# @ styled-store
+#: header.php:52 woocommerce/wc-additional-function.php:266
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ styled-store
+#: header.php:95
+msgid "custom header image"
+msgstr "Своя картинка в шапке"
+
+# @ styled-store
+#: inc/category-dropdown.php:17
+msgid "&mdash; Choose Category &mdash;"
+msgstr "&mdash; Выбрать категорию &mdash;"
+
+# @ styled-store
+#: inc/customizer.php:38
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+# @ styled-store
+#: inc/customizer.php:49
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+# @ styled-store
+#: inc/customizer.php:54
+msgid "Blog with Right Sidebar"
+msgstr "Блог с правым сайдбаром"
+
+# @ styled-store
+#: inc/customizer.php:55
+msgid "Blog with Left Sidebar"
+msgstr "Блог с левым сайдбаром"
+
+# @ styled-store
+#: inc/customizer.php:56
+msgid "Blog Full Width &amp; no Sidebars"
+msgstr "Блог на всю ширину"
+
+# @ styled-store
+#: inc/customizer.php:73
+msgid "Enable Move To Top"
+msgstr "Разрешить переход наверх"
+
+# @ styled-store
+#: inc/customizer.php:87
+msgid "Hide Blog Taxonomy Section"
+msgstr "Скрыть таксономию в блоге"
+
+# @ styled-store
+#: inc/customizer.php:100
+msgid "Social Networking"
+msgstr "Социальные сети"
+
+# @ styled-store
+#: inc/customizer.php:114
+msgid "Show Social Bar"
+msgstr "Показать соц. сети"
+
+# @ styled-store
+#: inc/customizer.php:127
+msgid "Facebook"
+msgstr ""
+
+# @ styled-store
+#: inc/customizer.php:139
+msgid "Skype"
+msgstr ""
+
+# @ styled-store
+#: inc/customizer.php:151
+msgid "Twitter"
+msgstr ""
+
+# @ styled-store
+#: inc/customizer.php:163
+msgid "RSS"
+msgstr ""
+
+# @ styled-store
+#: inc/customizer.php:176
+msgid "Homepage Setting"
+msgstr "Настройки главной страницы"
+
+# @ styled-store
+#: inc/customizer.php:182
+msgid "Homepage Slider Setting"
+msgstr "Настройки слайдера"
+
+# @ styled-store
+#: inc/customizer.php:193
+msgid "Choose Slider Category"
+msgstr "Выбать категорию для слайдера"
+
+# @ styled-store
+#: inc/customizer.php:195
+msgid " Select Category to show posts in Slider section) "
+msgstr "Выберите из какой категории отображать слайды"
+
+# @ styled-store
+#: inc/customizer.php:208
+msgid "Footer Setting"
+msgstr "Настройки подвала"
+
+# @ styled-store
+#: inc/customizer.php:213
+msgid "Payment Support"
+msgstr "Поддержка оплаты"
+
+# @ styled-store
+#: inc/customizer.php:224
+msgid "Image 1"
+msgstr "Изображение 1"
+
+# @ styled-store
+#: inc/customizer.php:235
+msgid "Image 2"
+msgstr "Изображение 2"
+
+# @ styled-store
+#: inc/customizer.php:246
+msgid "Image 3"
+msgstr "Изображение 3"
+
+# @ styled-store
+#: inc/customizer.php:257
+msgid "Image 4"
+msgstr "Изображение 4"
+
+# @ styled-store
+#: inc/customizer.php:267
+msgid "Image 5"
+msgstr "Изображение 5"
+
+# @ styled-store
+#: inc/customizer.php:274
+msgid "Copyright Text"
+msgstr "Текст копирайта"
+
+# @ styled-store
+#: inc/customizer.php:288
+msgid "Hide Copyright Text"
+msgstr "Спрятать текст копирайта"
+
+# @ styled-store
+#: inc/customizer.php:301
+msgid "Woocommerce Setting"
+msgstr "Настройки WooCommerce"
+
+# @ styled-store
+#: inc/customizer.php:306
+msgid "Basic Setting"
+msgstr "Базовые настройки"
+
+# @ styled-store
+#: inc/customizer.php:318
+msgid "Shop Page Layout"
+msgstr "Макет страницы магазина"
+
+# @ styled-store
+#: inc/customizer.php:323
+msgid "Shop with Right Sidebar"
+msgstr "Магазин с правым сайдбаром"
+
+# @ styled-store
+#: inc/customizer.php:324
+msgid "Shop with Left Sidebar"
+msgstr "Магазин с левым сайдбаром"
+
+# @ styled-store
+#: inc/customizer.php:325
+msgid "Shop Full Width &amp; no Sidebars"
+msgstr "Магазин на всю ширину"
+
+# @ styled-store
+#: inc/customizer.php:336
+msgid "Disable Add to cart link from product"
+msgstr "Отключить \"Добавить в корзину\" в товарах"
+
+# @ styled-store
+#: inc/customizer.php:337
+msgid "This remove the cart icon while hovering on product image"
+msgstr "Значок Очистить корзину при наведении на изображение продукта"
+
+# @ styled-store
+#: inc/customizer.php:350
+msgid "Excerpt Lenth"
+msgstr "Длина отрывка (анонса) записи"
+
+# @ styled-store
+#: inc/customizer.php:351
+msgid "This trim the lenth of short description on shop page "
+msgstr "Короткое описание"
+
+# @ styled-store
+#: inc/styledstore-function.php:236 woocommerce/wc-additional-function.php:241
+msgid "Search for:"
+msgstr "Искать:"
+
+# @ styled-store
+#: inc/styledstore-function.php:237 inc/styledstore-function.php:244
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "search For"
+msgstr "Искать"
+
+# @ styled-store
+#: inc/styledstore-function.php:238 inc/styledstore-function.php:246
+#: searchform.php:15 woocommerce/wc-additional-function.php:243
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+# @ styled-store
+#: inc/styledstore-function.php:271
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ styled-store
+#: inc/styledstore-function.php:272
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+# @ styled-store
+#: inc/styledstore-function.php:273
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи  <span class=\"meta-nav\">&rarr;</span>"
+
+# @ styled-store
+#: inc/styledstore-function.php:301
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:99
+#: woocommerce/widgets/styledstore-woocommerce-category.php:130
+#: woocommerce/widgets/styledstore-woocommerce-category.php:145
+msgid "Name"
+msgstr "Имя"
+
+# @ styled-store
+#: inc/styledstore-function.php:310
+msgid "Email"
+msgstr "Email"
+
+# @ styled-store
+#: inc/styledstore-function.php:319
+msgid "Website"
+msgstr "Сайт"
+
+# @ styled-store
+#: inc/styledstore-function.php:373
+msgid "Leave a Reply"
+msgstr "Отставить комментарий"
+
+# @ styled-store
+#: inc/styledstore-function.php:375
+msgid "Your email address will not be published."
+msgstr "Ваш электронный адрес не будет опубликован."
+
+# @ styled-store
+#: inc/styledstore-function.php:376
+msgid "SUBMIT"
+msgstr "Отправить"
+
+# @ styled-store
+#: inc/styledstore-function.php:413
+msgid "READ MORE"
+msgstr "Читать далее"
+
+# @ styled-store
+#: inc/styledstore-function.php:562
+msgid "Latest Article"
+msgstr "Последние статьи"
+
+# @ styled-store
+#: inc/styledstore-function.php:582
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+# @ styled-store
+#: inc/styledstore-upsells/styled-store-pro-btn/class-customize.php:76
+#: styledstore-upsells/styled-store-pro-btn/class-customize.php:76
+msgid "Styled Store Pro"
+msgstr ""
+
+# @ styled-store
+#: inc/styledstore-upsells/styled-store-pro-btn/class-customize.php:77
+#: styledstore-upsells/styled-store-pro-btn/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+# @ styled-store
+#: inc/template-tags.php:37
+msgid "Posted by "
+msgstr "Автор "
+
+# @ styled-store
+#: inc/template-tags.php:52
+msgid "by"
+msgstr "автор:"
+
+# @ styled-store
+#: inc/template-tags.php:56
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Автор"
+
+# @ styled-store
+#: inc/template-tags.php:77 inc/template-tags.php:89
+msgid ", "
+msgstr ""
+
+# @ styled-store
+#: inc/template-tags.php:83
+msgid "Posted In"
+msgstr "Категория "
+
+# @ styled-store
+#: inc/template-tags.php:84
+msgid "Categories"
+msgstr "Категории"
+
+# @ styled-store
+#: inc/template-tags.php:95
+msgid "Tagged"
+msgstr "Метки"
+
+# @ styled-store
+#: inc/template-tags.php:96
+msgid "Tags"
+msgstr "Метки"
+
+# @ styled-store
+#: inc/template-tags.php:102
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:19
+msgid "ST: Make A Promo  "
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:22
+msgid "This widgets provides user to select element for the promotion of their business "
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:35
+#: woocommerce/widgets/class-wc-widget-best-sale-product.php:31
+#: woocommerce/widgets/class-wc-widget-new-arrival-product.php:31
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:89
+#: woocommerce/widgets/styledstore-woocommerce-category.php:117
+#: woocommerce/widgets/styledstore-woocommerce-category.php:118
+msgid "Title"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:44
+msgid "Upload Background Image"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:143
+#: inc/widgets/styledstore-slider-recent-post.php:107
+#: inc/widgets/styledstoreextend-recent-post.php:170
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:69
+#: woocommerce/widgets/styledstore-show-child-category.php:115
+#: woocommerce/widgets/styledstore-woocommerce-category.php:104
+#: woocommerce/widgets/widgets-featuredproducts.php:176
+msgid "Title:"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:163
+msgid "Main Heading:"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-promo-widgets.php:167
+msgid "Sub Heading:"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-slider-recent-post.php:18
+msgid "ST: Recent Posts Slider"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-slider-recent-post.php:21
+msgid "This is custom widgets that shows recent post with slider on full width"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-slider-recent-post.php:41
+#: inc/widgets/styledstoreextend-recent-post.php:41
+msgid "Recent Posts"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-slider-recent-post.php:65
+msgid "By"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstore-slider-recent-post.php:110
+#: inc/widgets/styledstoreextend-recent-post.php:173
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstoreextend-recent-post.php:18
+msgid "ST: Recent Posts"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstoreextend-recent-post.php:21
+msgid "This is custom widgets that shows recent post which includes featured image of particulat post"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstoreextend-recent-post.php:91
+msgctxt "Used before post author name."
+msgid "By &nbsp"
+msgstr ""
+
+# @ styled-store
+#. translators: 1: number of comments, 2: post title
+#: inc/widgets/styledstoreextend-recent-post.php:112
+#, php-format
+msgctxt ""
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ styled-store
+#: inc/widgets/styledstoreextend-recent-post.php:177
+msgid "Display post date?"
+msgstr ""
+
+# @ styled-store
+#: inc/widgets/styledstoreextend-recent-post.php:180
+msgid "Show featured Image?"
+msgstr ""
+
+# @ styled-store
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ styled-store
+#: single.php:29
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+# @ styled-store
+#: single.php:30
+msgid "Next"
+msgstr "Вперёд"
+
+# @ styled-store
+#: single.php:33
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+# @ styled-store
+#: single.php:35
+msgid "Previous"
+msgstr "Назад"
+
+# @ styled-store
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: template-parts/content-archive.php:30 template-parts/content.php:31
+#, php-format
+msgid "Read More<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+# @ styled-store
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ styled-store
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните сейчас</a>."
+
+# @ styled-store
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено. Попробуйте использовать другие ключевые слова."
+
+# @ styled-store
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно поиск сможет помочь."
+
+# @ styled-store
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:26 template-parts/content-single.php:27
+#: template-parts/content.php:36
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:27 woocommerce/cart/cart.php:70
+msgid "Product"
+msgstr "Товар"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:88
+msgid "Price"
+msgstr "Цена"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:94
+msgid "Quantity"
+msgstr "Количество"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:111
+msgid "Total"
+msgstr "Сумма"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:51
+msgid "Remove this item"
+msgstr "Удалить"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:83
+msgid "Available on backorder"
+msgstr "Доступно для предзаказа"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:129
+msgid "Coupon"
+msgstr "Купон"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:129
+msgid "Coupon code"
+msgstr "Код купона"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:129
+msgid "Apply Coupon"
+msgstr "Применить купон"
+
+# @ styled-store
+#: woocommerce/cart/cart.php:135
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+# @ styled-store
+#: woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/single-product/rating.php:35
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+# @ styled-store
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "out of %s5%s"
+msgstr "из %s5%s"
+
+# @ styled-store
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "на основе %s оценок посетителей"
+msgstr[1] "на основе %s оценок посетителей"
+msgstr[2] ""
+
+# @ styled-store
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Оценка %d из 5"
+
+# @ styled-store
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr "из 5"
+
+# @ styled-store
+#: woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ styled-store
+#: woocommerce/single-product/review.php:57
+msgid "verified owner"
+msgstr "Подтверждение владельца"
+
+# @ styled-store
+#: woocommerce/wc-additional-function.php:219
+msgid "OFF"
+msgstr "ВЫКЛ"
+
+# @ styled-store
+#: woocommerce/wc-additional-function.php:242
+msgid "Search Products"
+msgstr "Поиск товаров"
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-best-sale-product.php:24
+msgid "Display a list of your best sale products on your site."
+msgstr "Показать список товаров на сайте."
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-best-sale-product.php:26
+msgid "ST:Best Sale Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-best-sale-product.php:30
+msgid "Best Sale Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-best-sale-product.php:39
+#: woocommerce/widgets/class-wc-widget-new-arrival-product.php:39
+msgid "Number of products to show"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-new-arrival-product.php:24
+msgid "Display a list new arrival products on your site."
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-new-arrival-product.php:26
+msgid "ST:New Arrival Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/class-wc-widget-new-arrival-product.php:30
+msgid "New Arrival Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:20
+msgid "ST:Featured Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:21
+msgid "This widgets displays all the woocommerce featured products with no slider. This mainly used on right and left sidebar"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:60
+#: woocommerce/widgets/widgets-featuredproducts.php:170
+msgid "FEATURED"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:74
+#: woocommerce/widgets/styledstore-woocommerce-category.php:109
+#: woocommerce/widgets/widgets-featuredproducts.php:181
+msgid "Products per page:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:79
+msgid "Columns:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:85
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:108
+#: woocommerce/widgets/styledstore-woocommerce-category.php:113
+msgid "Order By:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:93
+#: woocommerce/widgets/styledstore-woocommerce-category.php:122
+msgid "Date"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:96
+#: woocommerce/widgets/styledstore-woocommerce-category.php:126
+msgid "Random"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:111
+#: woocommerce/widgets/styledstore-woocommerce-category.php:141
+msgid "desc"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:115
+msgid "asc"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:125
+#: woocommerce/widgets/styledstore-woocommerce-category.php:154
+#: woocommerce/widgets/widgets-featuredproducts.php:188
+msgid "Category:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-featured-products-none-slider.php:131
+#: woocommerce/widgets/widgets-featuredproducts.php:194
+msgid "All Category"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-show-child-category.php:24
+msgid "ST: Show child category"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-show-child-category.php:27
+msgid "This is woocommerce custom widgets that shows child category of parent category"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-show-child-category.php:119
+msgid "Select Parent Category:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-show-child-category.php:135
+msgid "Number of Category to show:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-show-child-category.php:139
+msgid "Display product count?"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-woocommerce-category.php:22
+msgid "ST:Category List"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-woocommerce-category.php:25
+msgid "This is woocommerce custom widgets that list all the category with its featured image"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-woocommerce-category.php:96
+msgid "Browse our Categories"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/styledstore-woocommerce-category.php:138
+msgid "Order:"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/widgets-featuredproducts.php:20
+msgid "ST:Slider Featured Products"
+msgstr ""
+
+# @ styled-store
+#: woocommerce/widgets/widgets-featuredproducts.php:21
+msgid "This widgets displays all the woocommerce featured products"
+msgstr ""

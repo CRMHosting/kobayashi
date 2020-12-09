@@ -1,0 +1,87 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+( September 26, 2016 ) Version 1.1.0 Styled Themes <www.styledthemes.com>
+	
+	[+] Woocommerce Homepage Template Added
+	[+] Multiple widget areas Added
+	[+] Header Part Design Fixed
+	[+] Upsells Link Added
+
+( September 23, 2016 ) Version 1.0.10 Styled Themes <www.styledthemes.com>
+
+	[x] Plugin territory on customizer.php file Deleted
+	[x] Removed jquery enqueue and provided dependency on all other script
+	[+] Prefixing Added on respond.min.js and html5shiv.min.js Added
+	[x] Deleted mo and po file and  Added .pot file
+	[x] Removed underscore text from readme.txt file. 
+
+
+----
+
+( September 22, 2016 ) Version 1.0.9 Styled Themes <www.styledthemes.com>
+
+	[x] Customizer featured to change readmore text, comment reply text, post navigation next, Deleted 
+
+----
+
+( September 22, 2016 ) Version 1.0.8 Styled Themes <www.styledthemes.com>
+
+	[+] Prefixed google font Added
+	[!] font weight bug Fixed 
+
+----
+
+( September 21, 2016 ) Version 1.0.7 Styled Themes <www.styledthemes.com>
+
+	[+] wp_link_pages() function added on content.php template 
+
+----
+
+( September 16, 2016 ) Version 1.0.6 Styled Themes <www.styledthemes.com>
+
+	[!] Footer menu bug Fixed
+	[x] Unused css and js file[sm-mint, sm-simple and navigation.js] deleted 
+
+----
+
+( September 09, 2016 ) Version 1.0.5 Styled Themes <www.styledthemes.com>
+
+	[x] widget_text hook deleted
+
+----
+
+( September 09, 2016 ) Version 1.0.4 Styled Themes <www.styledthemes.com>
+
+	[*] Image sanitization callback Changed 
+	[*]	Copyright text Changed
+
+----
+
+( September 09, 2016 ) Version 1.0.3 Styled Themes <www.styledthemes.com>
+
+	[*] Text domain changed from styled-estore to styled-store
+
+----
+
+(September 08, 2016 ) Version 1.0.2 Styled Themes <www.styledthemes.com>
+
+	[!] Sanitization, escaping and prefixing bug Fixed
+----
+
+(April 9, 2016 ) Version 1.0 Styled Themes <www.styledthemes.com>
+
+Initial Release
+
+----
